@@ -29,10 +29,19 @@ puts "Step 7: Bring your right hand to the right side of your head."
 # Step 8: GOOD
 puts "Step 8: Bring your left hand to the lefgt side of your head."
 
-# Step 9: 
+# Step 9: GOOD
 puts "Step 9: Put your right hand to your left hip."
 
 # Step 10: GOOD
-puts "step 10: Put your left hand to your left hip"
+puts "Step 10: Put your left hand to your left hip"
 
+# Step 11: GOOD
+puts "Step 11: Put your right hand on the right side of your hip."
+
+# Step 12: GOOD
+puts "Step 12: Put your left hand on the left side of your
+hip."
+
+#Step 13: GOOD
+puts "Step 13: Aye and turn."
 
