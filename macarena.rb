@@ -9,10 +9,10 @@ puts ""
 puts "Step 1: Right arm out in front of you, palm facing down."
 
 # Step 2: GOOD
-puts "Step 2: left arm out in front of you, palm facing down."
+puts "Step 2: Left arm out in front of you, palm facing down."
 
 # Step 3: GOOD
-puts "Step 3: turn your right palm up."
+puts "Step 3: Turn your right palm up."
 
 # Step 4: GOOD
 puts "Step 4: Turn your left palm up."
@@ -20,11 +20,19 @@ puts "Step 4: Turn your left palm up."
 # Step 5: GOOD
 puts "Step 5: Bring your right hand to your left shoulder."
 
-# Step 6: FIXME
-puts "Step 6: Bring your left hand to your right shoulder"
+# Step 6: GOOD
+puts "Step 6: Bring your left hand to your right shoulder."
 
-# Step 7: FIXME
-puts "Step 7: Place your left hand on your left shoulder."
+# Step 7: GOOD
+puts "Step 7: Bring your right hand to the right side of your head."
 
-# Step 8: FIXME
-puts "Step 8: The Last Step"
+# Step 8: GOOD
+puts "Step 8: Bring your left hand to the lefgt side of your head."
+
+# Step 9: 
+puts "Step 9: Put your right hand to your left hip."
+
+# Step 10: GOOD
+puts "step 10: Put your left hand to your left hip"
+
+
